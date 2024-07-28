@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;欢迎来到我的+GitHub!" alt="Typing SVG" />
   </a>
 </div>
 
