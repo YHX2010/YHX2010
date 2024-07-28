@@ -6,7 +6,8 @@
   </a>
 </div>
 
-# 欢迎来到 YHX2010 的 GitHub / Welcome to YHX2010's GitHub  
+# 欢迎来到 YHX2010 的 GitHub 
+｜Welcome to YHX2010's GitHub  
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=one_dark_pro" align="right" />
