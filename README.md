@@ -25,10 +25,9 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/yhx2010?tab=repositories&q=&language=javascript)
 [![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logo=windows10&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=batchfile)
 [![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/yhx2010?tab=repositories&q=&language=shell)
-[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-some-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-little-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=python)
-[![Scratch](https://img.shields.io/badge/Scratch-nice-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
-[![易语言](https://img.shields.io/badge/%E6%98%93%E8%AF%AD%E8%A8%80-good-grey?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURQAAAP8AAP%2F%2F%2F2cZZB4AAAABdFJOUwBA5thmAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB%2BgGDAUGEL5zDF4AAABISURBVAjXJYxBCsAgEAPzif6sEczdwvofBXvfg%2FvKrjSnyRCCi7yhCEcjK56I9VM%2FjmoEd1KZr0GSwTKge9Y5NrpK7kwD5%2BoDefAcYpQtlXYAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMTJUMDU6MDY6MTYrMDA6MDByrOYxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTEyVDA1OjA2OjE2KzAwOjAwA%2FFejQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0xMlQwNTowNjoxNiswMDowMFTkf1IAAAAASUVORK5CYII%3D&logoColor=white&style=flat-square&labelColor=red)]()
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-little-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-some-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=python)
+[![Scratch](https://img.shields.io/badge/Scratch-great-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
 
 **Tools I Use / 我使用的工具**
 
