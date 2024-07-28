@@ -7,7 +7,9 @@
 </div>
 
 # 欢迎来到 YHX2010 的 GitHub 
-- Welcome to YHX2010's GitHub  
+- Welcome to YHX2010's GitHub
+
+(本 README 文档基于[凌波](https://github.com/lingbopro)的 README 改造，部分图像使用了 [GitHubProxy](https://mirror.ghproxy.com) 代理加速，特此感谢🙏)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=one_dark_pro" align="right" />
@@ -52,9 +54,10 @@
 ## About Me / 关于我
 
 只是一个学生 
+
 主攻Python、C++，喜欢玩 Minecraft  
 
- **My Friends:**  
+ ~~**My Friends:**~~  
 ~~Emm……~~
 
 ## My Projects / 我的项目
@@ -66,14 +69,14 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details align="center">
   <summary><b>Metrics</b></summary>
-  <img align="center" src="https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
+  <img align="center" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
 </details>
 
 ### 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
