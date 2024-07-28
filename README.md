@@ -41,7 +41,7 @@
 [![iSH/Terminal](https://img.shields.io/badge/iSH%2FTerminal-grey?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93cyBUZXJtaW5hbDwvdGl0bGU+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTguMTY1IDZWM2g3LjY2NXYzSDguMTY1em0tLjUtM0gxYy0uNTUgMC0xIC40NS0xIDF2Mmg3LjY2NVYzek0yMyAzaC02LjY3djNIMjRWNGMwLS41NS0uNDUtMS0xLTF6TTAgNi41aDI0VjIwYzAgLjU1LS40NSAxLTEgMUgxYy0uNTUgMC0xLS40NS0xLTFWNi41ek0xMS41IDE4YzAgLjMuMi41LjUuNWg4Yy4zIDAgLjUtLjIuNS0uNXYtMS41YzAtLjMtLjItLjUtLjUtLjVoLThjLS4zIDAtLjUuMi0uNS41VjE4em0tNS4yLTQuNTVsLTMuMSAzLjFjLS4yNS4yNS0uMjUuNiAwIC44bC45LjljLjI1LjI1LjYuMjUuOCAwbDQuNC00LjRhLjUyLjUyIDAgMCAwIDAtLjhsLTQuNC00LjRjLS4yLS4yLS42LS4yLS44IDBsLS45LjljLS4yNS4yLS4yNS41NSAwIC44bDMuMSAzLjF6Ii8+PC9zdmc+)](https://github.com/ish-app/ish)
 [![VMware](https://img.shields.io/badge/VMware-orange?logoColor=white&style=flat-square&logo=vmware)](https://vmware.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logoColor=white&style=flat-square&logo=github)](https://github.com)
-[![Pandora/ChatGPT](https://img.shields.io/badge/ChatGPT-Green?logo=openai&logoColor=white)](https://new.oaifree.com)
+[![Pandora/ChatGPT](https://img.shields.io/badge/Pandora-ChatGPT-Green?logo=openai&logoColor=white)](https://new.oaifree.com)
 [![Google Chrome](https://img.shields.io/badge/Chrome-blue?logo=googlechrome&logoColor=white)](https://google.cn/chrome)
 [![Arc](https://img.shields.io/badge/Arc-purple?logo=arc&logoColor=white)](https://arc.net)
 
