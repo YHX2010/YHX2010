@@ -16,7 +16,7 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=flat-square)](https://github.com/yhx2010 "GitHub")
-[![Bilibili](https://img.shields.io/badge/Bilibili-gray?logo=bilibili&style=flat-square)](https://space.bilibili.com/1886311488 "Bilibili")
+[![Bilibili](https://img.shields.io/badge/Bilibili-gray?logo=bilibili&style=flat-square)](https://space.bilibili.com/3546580869188223 "Bilibili")
 
 一个爱写 `Python` 、关注数码科技的学生，兼B站UP主  
 
