@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;Front-end+developer!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!" alt="Typing SVG" />
   </a>
 </div>
 
-# 欢迎，这里是 YHX2010 的 GitHub 主页 / Welcome, here is YHX2010's GitHub  
+# 欢迎，这里是 YHX2010 的 GitHub / Welcome, here is YHX2010's GitHub  
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=one_dark_pro" align="right" />
