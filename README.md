@@ -2,14 +2,13 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;欢迎来到我的+GitHub！;你好+世界！;Python yyds！;Minecraft yyds！;猪神永垂不朽！" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71DB99&center=true&vCenter=true&random=true&width=450&lines=Welcome+to+my+GitHub!;Hello+World!;I+love+Python!;Minecraft+is+very+nice!;Technoblade+Never+Dies!;" alt="Typing SVG" />
   </a>
 </div>
 
 # 欢迎来到 YHX2010 的 GitHub 
-- Welcome to YHX2010's GitHub
-
-(本 README 文档基于[凌波](https://github.com/lingbopro)的 README 改造，部分图像使用了 [GitHubProxy](https://mirror.ghproxy.com) 代理加速，特此感谢🙏)
+> Welcome to YHX2010's GitHub
+> 你可以去[我的主页](http://yhx2010.rf.gd)看看！
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="right">
   <img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yhx2010&show_icons=true&theme=one_dark_pro" align="right" />
@@ -58,9 +57,6 @@
 
 主攻Python、C++，喜欢玩 Minecraft  
 
- ~~**My Friends:**~~  
-~~Emm……~~
-
 ## My Projects / 我的项目
 暂无 :( 
 
@@ -70,15 +66,22 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details align="center">
   <summary><b>Metrics</b></summary>
-  <img align="center" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
+  <img align="center" src="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
 </details>
+
+## 友情链接
+一个强大美观的开源下载器[XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3)
+
+[凌波Minecraft](https://github.com/lingbopro)
+
+[GitHub Proxy](https://ghp.ci)
 
 ### 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
 
