@@ -66,14 +66,14 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <details align="center">
   <summary><b>Metrics</b></summary>
-  <img align="center" src="https://ghp.ci/https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
+  <img align="center" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/yhx2010/yhx2010/output/metrics.svg" width="400" />
 </details>
 
 ## 友情链接
@@ -81,7 +81,7 @@
 
 [凌波Minecraft](https://github.com/lingbopro)
 
-[GitHub Proxy](https://ghp.ci)
+[GitHub Proxy](https://ghproxy.link)
 
 ### 一些 _~~奇怪的~~_ 东西 / Some _~~SUS~~_ Things
 
