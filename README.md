@@ -23,11 +23,11 @@
 
 [![HTML](https://img.shields.io/badge/HTML-nice-grey?logo=html5&logoColor=white&style=flat-square&labelColor=orange)](https://github.com/yhx2010?tab=repositories&q=&language=html)
 [![CSS](https://img.shields.io/badge/CSS-good-grey?logo=css3&logoColor=white&style=flat-square&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=css)
-[![JavaScript](https://img.shields.io/badge/JavaScript-good-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/yhx2010?tab=repositories&q=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=yellow)](https://github.com/yhx2010?tab=repositories&q=&language=javascript)
 [![Batchfile](https://img.shields.io/badge/Batchfile-good-grey?style=flat-square&logo=windows10&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=batchfile)
 [![ShellScript](https://img.shields.io/badge/ShellScript-good-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=black)](https://github.com/yhx2010?tab=repositories&q=&language=shell)
 [![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-little-grey?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=C%2B%2B)
-[![Python](https://img.shields.io/badge/Python-some-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=python)
+[![Python](https://img.shields.io/badge/Python-good-grey?style=flat-square&logo=python&logoColor=white&labelColor=blue)](https://github.com/yhx2010?tab=repositories&q=&language=python)
 [![Scratch](https://img.shields.io/badge/Scratch-great-grey?style=flat-square&logo=scratch&logoColor=white&labelColor=yellow)]()
 
 **Tools I Use / 我使用的工具**
